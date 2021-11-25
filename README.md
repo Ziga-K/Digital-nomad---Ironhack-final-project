@@ -17,7 +17,7 @@
 
 - Build, clean and manipulate data into a dataframe with [Pandas](https://pandas.pydata.org) - see 2.clean_loc_data file.
 
-- Getting location data with [Geopy](https://geopy.readthedocs.io/en/stable/.)
+- Getting location data with [Geopy](https://geopy.readthedocs.io/en/stable/.) and [Pycountry](https://pypi.org/project/pycountry/).
 
 ## Result:
 
