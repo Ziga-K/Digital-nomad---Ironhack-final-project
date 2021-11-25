@@ -13,7 +13,7 @@
 
 ## Overall steps:
 
-- Webscraping with Python and [Selenium](https://selenium-python.readthedocs.io)<br> - See 1.nomadlist_scrape file.
+- Webscraping with Python and [Selenium](https://selenium-python.readthedocs.io) - See 1.nomadlist_scrape file.
 
 - Build, clean and manipulate data into a dataframe with [Pandas](https://pandas.pydata.org) - see 2.clean_loc_data file.
 
