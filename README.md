@@ -5,13 +5,13 @@
 
 <img src="https://www.backblaze.com/blog/wp-content/uploads/2019/10/blog-rv-laptop.jpg" width="80%"></img>
 
-## objective: 
+## Main )bjective: 
 
 - Use some of nomadlist.com data for insight on whats makes cities attractive for expats, either for visit or live in. 
 
 - Build machine learning model to predict the city rank and possibly a city reccomendation code - this part is work in progress, would be explored and added later on...
 
-## Overall steps:
+## Overall Steps:
 
 - Webscraping with Python and [Selenium](https://selenium-python.readthedocs.io) - See 1.nomadlist_scrape file.
 
@@ -21,9 +21,10 @@
 
 ## Result:
 
-Please see Insights from the project in the [presentation](https://docs.google.com/presentation/d/12Rw1mWf9zF2CjiJ1xwlzN7AaMWJrP7ubtLV1PqpfMHs/edit#slide=id.p).
+- Please see Insights from the project in the [presentation](https://docs.google.com/presentation/d/12Rw1mWf9zF2CjiJ1xwlzN7AaMWJrP7ubtLV1PqpfMHs/edit#slide=id.p).
 
-Visuals as from the [Tableau book](https://public.tableau.com/app/profile/ziga.k./viz/Nomad_Cities/Story1?publish=yes).
+- Visuals as from the [Tableau book](https://public.tableau.com/app/profile/ziga.k./viz/Nomad_Cities/Story1?publish=yes).
 
-City rank prediction model(s) can be found in file ML_predict. As mentioned above is work in progress still, although a data as is has been used to build the initial model. A high score of 0.98 has been observed with LinearRegression model.
+- City rank prediction model(s) can be found in file ML_predict.
+As mentioned above is work in progress still, although a data as is has been used to build the initial model. A high score of 0.98 has been observed with LinearRegression model.
 
