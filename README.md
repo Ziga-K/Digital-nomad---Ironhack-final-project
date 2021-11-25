@@ -5,9 +5,16 @@
 
 <img src="https://www.backblaze.com/blog/wp-content/uploads/2019/10/blog-rv-laptop.jpg" width="80%"></img>
 
+***The Inspiration...***
+
+While I was envisioning what my path would be after finishing the Ironhack's bootcamp I came across a website that seemed to a great source, an inspiration for thousands of expats to use and make decision on their next big destinations. 
+
+Made me curious on what makes a city attractive to live in for expats... and if any insight can be done through data analytics. 
+
+
 ## Main Objective: 
 
-- Use some of nomadlist.com data for insight on whats makes cities attractive for expats, either for visit or live in. 
+- Use some of [Nomadlist.com](https://nomadlist.com) data for insight on whats makes cities attractive for expats, either for visit or live in. 
 
 - Build machine learning model to predict the city rank and possibly a city reccomendation code - this part is work in progress, would be explored and added later on...
 
