@@ -25,3 +25,5 @@ Please see Insights from the project in the [presentation](https://docs.google.c
 
 Visuals as from the [Tableau book](https://public.tableau.com/app/profile/ziga.k./viz/Nomad_Cities/Story1?publish=yes).
 
+City rank prediction model(s) can be found in file ML_predict. As mentioned above is work in progress still, although a data as is has been used to build the initial model. A high score of 0.98 has been observed with LinearRegression model.
+
