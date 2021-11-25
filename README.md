@@ -12,7 +12,9 @@ While I was envisioning what my path would be after finishing the Ironhack's boo
 Made me curious on what makes a city attractive to live in for expats... and if any insight can be done through data analytics. 
 
 
-## Main Objective: 
+## Main Objectives:
+
+- Use webscraping to get a dataset from nomadlist.com.
 
 - Use some of [Nomadlist.com](https://nomadlist.com) data for insight on whats makes cities attractive for expats, either for visit or live in. 
 
