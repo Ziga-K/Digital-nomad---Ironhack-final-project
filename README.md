@@ -5,7 +5,7 @@
 
 <img src="https://www.backblaze.com/blog/wp-content/uploads/2019/10/blog-rv-laptop.jpg" width="80%"></img>
 
-## Main )bjective: 
+## Main Objective: 
 
 - Use some of nomadlist.com data for insight on whats makes cities attractive for expats, either for visit or live in. 
 
